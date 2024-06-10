@@ -1,0 +1,7 @@
+train: C:\Users\DELL\OneDrive\Documents\Desktop\Crater_detection\train\images
+val: C:\Users\DELL\OneDrive\Documents\Desktop\Crater_detection\valid\images
+test: C:\Users\DELL\OneDrive\Documents\Desktop\Crater_detection\test\images
+
+nc: 1
+names: ['0']
+
